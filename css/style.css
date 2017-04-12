@@ -1,0 +1,10 @@
+td {
+	/*padding: 10px 20px 30px 40px;*/
+	padding: 10px 20px;
+	background: #F52C2C;
+	border: solid 5px #954C4C;
+}
+div {
+	padding: 10px;
+	border: solid 5px red;
+}	
