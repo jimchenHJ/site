@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding : 0;
+  }
+.head{
+  height: 50px;
+  background-color: #000;
+}
+.nav{
+  width: 75%;
+  height: 50px;
+  margin : 0 auto;
+  background-color: #A40D0D;
+}
+.body{
+
+}
+.slider{
+  width: 75%;
+  margin : 0 auto;
+  height: 300px;
+  background-color: #ffff00;
+
+}
