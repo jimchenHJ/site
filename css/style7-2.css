@@ -13,12 +13,17 @@ body{
   background-color: #A40D0D;
 }
 .body{
-
+/*background-color: #BF9898;*/
 }
 .slider{
   width: 75%;
   margin : 0 auto;
   height: 300px;
   background-color: #ffff00;
-
+}
+.content{
+  width: 75%;
+  margin: 20px auto;
+  height: 1000px;
+  background-color: #FF00FF;
 }
